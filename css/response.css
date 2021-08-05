@@ -1,0 +1,240 @@
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+
+
+
+
+  /*------------------------
+-------------------------
+     1st section
+-----------------------
+------------------------*/
+ .bn-bt-2 {
+    
+    margin-top: 0px !important;;
+}
+.banner {
+   height: 70vh !important;
+   text-align: left;
+    
+} 
+
+ /*------------------------
+-------------------------
+     1st section
+-----------------------
+------------------------*/
+
+
+ /*------------------------
+-------------------------
+     1st section
+-----------------------
+------------------------*/
+
+
+ /*------------------------
+-------------------------
+     1st section
+-----------------------
+------------------------*/
+
+ /*------------------------
+-------------------------
+     1st section
+-----------------------
+------------------------*/
+
+}
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  
+   
+/*------------------------
+-------------------------
+     1st section
+-----------------------
+------------------------*/
+
+  
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+
+
+
+   /*------------------------
+-------------------------
+     1st section
+-----------------------
+------------------------*/
+ .bn-bt-2 {
+    
+    margin-top: 0px !important;;
+}
+.banner {
+   height: 212vh !important;;
+    
+}  
+
+
+
+ /*------------------------
+-------------------------
+     1st section
+-----------------------
+------------------------*/
+
+
+
+ /*------------------------
+-------------------------
+     1st section
+-----------------------
+------------------------*/
+
+
+
+ /*------------------------
+-------------------------
+     1st section
+-----------------------
+------------------------*/
+
+
+ /*------------------------
+-------------------------
+     1st section
+-----------------------
+------------------------*/
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+
+  /*------------------------
+-------------------------
+     1st section
+-----------------------
+------------------------*/
+ .banner {
+    
+    height: 1100px;
+    text-align: center;
+}
+ .navbar-toggler-icon {
+    background: #f9fafb;
+    
+    }
+}
+  .navbar>.container, .navbar>.container-fluid, .navbar>.container-lg, .navbar>.container-md, .navbar>.container-sm, .navbar>.container-xl, .navbar>.container-xxl {
+    
+    background: #111617;
+    background: liniam grey;
+    
+    
+    
+}
+  .navbar-light .navbar-toggler {
+    color: #035cdea8;
+    border-color: #0daefd;
+}
+ 
+.bn-bt-1 {
+    margin-bottom: 41px;}
+.bn-bt-2 {
+    margin-right: 0;
+  
+    
+    
+}
+.banner img {
+    padding-top: 15vh;
+    padding-left: 39px;
+    width: 353px;
+}
+
+
+ /*------------------------
+-------------------------
+     1st section
+-----------------------
+------------------------*/
+.toww-nd .snd {
+   
+    width: 85% !important;
+    
+    margin: 75px 29px !important;}
+
+
+
+ /*------------------------
+-------------------------
+     1st section
+-----------------------
+------------------------*/
+.threeth{text-align: center;}
+.threeth img, svg {
+    vertical-align: middle;
+    width: 323px;
+}
+
+
+ /*------------------------
+-------------------------
+     1st section
+-----------------------
+------------------------*/
+
+.forth , .fiveth , .sixth{
+  text-align: center;
+}
+.fiveth img {
+    padding-left: 0%;
+}
+  
+
+}
